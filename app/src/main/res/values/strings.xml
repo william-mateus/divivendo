@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dividendo</string>
+    <string name="input_fatura">Fatura</string>
+    <string name="input_agua">Agua</string>
+    <string name="input_luz">Luz</string>
+    <string name="input_salario">Salário</string>
+    <string name="btn_count">Calcular</string>
+    <string name="Frase">O desconto é maior se voce não comprar nada!!</string>
+              <!-- strings de media-->
+    <string name="mes1">Primeiro Mês:</string>
+    <string name="mes2">Segundo Mês:</string>
+    <string name="mes3">Terceiro Mês:</string>
+    <string name="btMedia">Media</string>
+    <string name="txIntruction">Não sabe como usar? clice em: ? Para receber ajuda</string>
+                    <!--aletDialog-->
+    <string name="title">Intruçoes</string>
+    <string name="btnHelp">Para saber a media voce deve adicionar os gastos dos ultimos 3 meses de uma mesma conta!!! Ex:Fatura-Jan,Fatura-Fev,Fatura-Abr</string>
+</resources>

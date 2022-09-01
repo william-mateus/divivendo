@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/gastosFragment" android:title="Gastos" android:icon="@drawable/ic_gatos"/>
+
+    <item android:id="@+id/mediaFragment" android:title="Média" android:icon="@drawable/ic_media"/>
+</menu>
